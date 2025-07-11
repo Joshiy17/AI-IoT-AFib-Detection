@@ -38,5 +38,8 @@ This project demonstrates how deep learning (CNN) can be used for early detectio
 - **data/ecg_data.csv:** ECG data for 124 patients, each with 40 readings
 - **results/:** Saved trained model and metrics after training
 
+- <img width="786" height="627" alt="image" src="https://github.com/user-attachments/assets/78df1484-a0c5-4c6a-9e4a-33d374c7f2ee" />
+
+
 ---
 **This project was completed for academic purposes at Symbiosis University of Applied Sciences.**
